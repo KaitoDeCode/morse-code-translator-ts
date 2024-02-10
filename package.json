@@ -1,0 +1,16 @@
+{
+  "name": "morse-code-translator",
+  "version": "1.0.0",
+  "description": "translator string morse code",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "nodemon --exec ts-node src/index.ts --transpile-only"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
