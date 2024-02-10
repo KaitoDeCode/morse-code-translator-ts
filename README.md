@@ -11,7 +11,7 @@ console.log(KalimatKeMorseCode);
 [ '.- -.. ..  ', '-... .- .. -.-  ', '-... .- -. --. . -  ' ]
 
 
-const KalimatKeMorseCode = convertMorseCodeToLetters(".- -.. ..");
+const MorseCodeKeLetters = convertMorseCodeToLetters(".- -.. ..");
 console.log(KalimatKeMorseCode);
 //result
 [ 'a', 'd', 'i' ]
