@@ -1,6 +1,6 @@
 
-export function parseMorseCode(morse:string): void{
-   const morseCode:string[] = morse.split[" "]; 
+export function convertMorseCodeToWords(morse:string): void{
+   const morseCode:string[] = morse.split(" "); 
 }
 
-parseMorseCode("... .__ _.. _._")
+convertMorseCodeToWords("... .__ _.. _._")
